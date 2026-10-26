@@ -1,4 +1,4 @@
-# 🏭 Manufacturing & Production Analytics | Power BI
+# 🏭 Manufacturing & Production Analytics 
 
 An end-to-end manufacturing analytics project built to understand production performance, machine downtime, and product quality using Python and Power BI.
 
