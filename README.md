@@ -1,4 +1,4 @@
-# Manufacturing & Production Analytics | Power BI
+# 🏭 Manufacturing & Production Analytics | Power BI
 
 An end-to-end manufacturing analytics project built to understand production performance, machine downtime, and product quality using Python and Power BI.
 
@@ -17,8 +17,6 @@ The dataset is synthetic and was created for this portfolio project.
 - **Git & GitHub:** Project version control and documentation.
 - **Generative AI:** Productivity support during development.
 
-*SQL was not used in this project.*
-
 ## Dashboard Pages
 
 ### 1. Production Overview
@@ -26,6 +24,7 @@ The dataset is synthetic and was created for this portfolio project.
 Monitors overall production output, target achievement, defects, downtime, and production trends.
 
 **Key insights:**
+
 - Actual production compared with planned targets.
 - Production trends across months.
 - Output comparison by machine, shift, and product.
@@ -38,6 +37,7 @@ Monitors overall production output, target achievement, defects, downtime, and p
 Examines machine-level performance and product quality to identify areas that may need further investigation.
 
 **Key insights:**
+
 - Defect rate by product.
 - Failed quality checks by machine.
 - Machine-level production, targets, defects, and downtime.
@@ -50,6 +50,7 @@ Examines machine-level performance and product quality to identify areas that ma
 Summarizes the main findings and outlines recommended actions for the relevant teams.
 
 **Key insights:**
+
 - Machine M-03 recorded the highest downtime.
 - Product P-102 had the highest displayed defect rate.
 - Actual production was below the planned target.
@@ -83,7 +84,14 @@ These are recommended investigations, not confirmed root causes or proven saving
 
 ## Skills Demonstrated
 
-Python, Pandas, data-quality checks, Power BI, DAX, KPI development, dashboard design, manufacturing analytics, and business recommendations.
+- Python and Pandas
+- Data inspection and quality checks
+- Power BI dashboard development
+- DAX measures and KPI calculations
+- Data visualization and performance analysis
+- Manufacturing and production analytics
+- Business insights and recommendations
+- GitHub documentation
 
 ## Future Improvements
 
@@ -95,6 +103,11 @@ Python, Pandas, data-quality checks, Power BI, DAX, KPI development, dashboard d
 ## Author
 
 **Anil Kumar**  
-Aspiring Data Analyst
+Aspiring Data Analyst | Python | Power BI | SQL | Excel
 
-[GitHub Profile](https://github.com/thandaanil987)
+- **GitHub:** [thandaanil987](https://github.com/thandaanil987)
+- **LinkedIn:** [Thanda Anil Kumar](https://www.linkedin.com/in/thanda-anil-kumar-5817172a5/)
+
+---
+
+⭐ If you find this project useful, consider giving the repository a star.
